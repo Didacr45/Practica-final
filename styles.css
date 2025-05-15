@@ -1,0 +1,25 @@
+body {
+    margin:0px;
+}
+
+.navbar {
+    background-color:rgb(26, 166, 226);
+    padding: 30px;
+    text-align: center;  
+    word-spacing: 20px;
+    font-weight:900;  
+}
+
+.nav-link:hover{
+    color:rgb(0, 0, 0);   
+}
+
+.nav-link{
+    color: white;
+}
+
+.header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 40px;
+    color: rgb(0, 0, 0);
+}
